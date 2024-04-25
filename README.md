@@ -2,11 +2,12 @@
 
 
 
-## Hey! My name is Rian Deroci Rodrigues and I am studying the 3rd year of high school at CTISM at UFSM.
+# Hey! My name is Rian Deroci Rodrigues and I am studying the 3rd year of high school at CTISM at UFSM.
+
 ### ✉️ **Contact me:** ✉️
 * [Twitter](https://twitter.com/riandrds)
 * [Instagram](https://www.instagram.com/riandrds/)
-* E-mail: rianroder@gmail.com
+* [E-mail](rianroder@gmail.com)
 
 ### 💻 **Web development languages:** 💻
 * Learning Java 
