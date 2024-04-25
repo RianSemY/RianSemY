@@ -2,13 +2,16 @@
 
 
 
-## _Olá, meu nome é Rian Deroci Rodrigues, atualmente tenho 14 anos de idade, nasci e cresci em São Pedro do Sul (RS). Estou estudando no Colégio Técnico Industrial (CTISM) na Universidade Federal de Santa Maria (UFSM)._
-* ### _Estou cursando o 1º ano do ensino médio com curso técnico intregado (informática para a internet)_
-
-### ✉️ **𝓜𝓪𝓷𝓮𝓲𝓻𝓪𝓼 𝓭𝓮 𝓬𝓸𝓷𝓽𝓪𝓽𝓸:** ✉️
+## Hey! My name is Rian Deroci Rodrigues and I am studying the 3rd year of high school at CTISM at UFSM.
+### ✉️ **Contact me:** ✉️
 * [Twitter](https://twitter.com/riandrds)
 * [Instagram](https://www.instagram.com/riandrds/)
 * E-mail: rianroder@gmail.com
 
+### 💻 **Web development languages:** 💻
+* Learning Java 
+* Learning C++
+* Moderate proficiency in PHP
+* Skilled in HTML, CSS and Javascript (front-end)
 
 ![      ](https://user-images.githubusercontent.com/105753719/169185110-5ef87b5f-89d7-48e1-bf26-0d351378e048.gif)
