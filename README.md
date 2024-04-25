@@ -7,7 +7,7 @@
 ### ✉️ **Contact me:** ✉️
 * [Twitter](https://twitter.com/riandrds)
 * [Instagram](https://www.instagram.com/riandrds/)
-* [E-mail](rianroder@gmail.com)
+* E-mail: rianroder@gmail.com
 
 ### 💻 **Web development languages:** 💻
 * Learning Java 
